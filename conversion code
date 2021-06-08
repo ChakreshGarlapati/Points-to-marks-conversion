@@ -1,0 +1,5 @@
+sem_marks=800
+sem_points=10
+sem_gained_points=float(input("Enter points gained:")) 
+sem_gained_marks=(sem_marks*sem_gained_points)/sem_points
+print(sem_gained_marks)
